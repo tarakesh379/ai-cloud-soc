@@ -1,0 +1,9 @@
+__pycache__/
+.env
+*.log
+*.pyc
+*.ipynb_checkpoints
+venv/
+.idea/
+.DS_Store
+terraform.tfstate*
